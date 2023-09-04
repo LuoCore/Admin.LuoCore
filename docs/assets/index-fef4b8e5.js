@@ -1,1 +1,0 @@
-import{j as n,d as l,k as t,a as d,l as r,s as p,n as u,t as c}from"./index-9c77520b.js";const m=n(l({name:"LayPanel",props:{shadow:{default:"always"}},setup(a){const s=a,e=t(()=>({shadow:s.shadow==="always","is-hover-shadow":s.shadow==="hover"}));return(o,h)=>(d(),r("div",{class:u(["layui-panel",c(e)])},[p(o.$slots,"default")],2))}}));export{m as u};
